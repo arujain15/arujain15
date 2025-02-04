@@ -1,7 +1,10 @@
+![logo](https://github.com/arujain15/arujain15/blob/main/images_git.jpg )
+
 <h1 align="center">Hi 👋, I'm Arushi Jain</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
-<img align="rigth" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-girl-gif-2332171326726785246&psig=AOvVaw1PSqHY6TiNPaJQ2vS4dfKM&ust=1738776113956000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICu0_7DqosDFQAAAAAdAAAAABAK">
+<img align="right" alt="coding" width="400" src="[[[[https://media.giphy.com/media/ZZ6nXfV7YXwpXyxfth/giphy.gif](https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-girl-gif-2332171326726785246&psig=AOvVaw0USn1HvWowv9-9XN4K2xwr&ust=1738777388903000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCuptbIqosDFQAAAAAdAAAAABAE)](https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif)](https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif)">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arujain15&label=Profile%20views&color=0e75b6&style=flat" alt="arujain15" /> </p>
 
