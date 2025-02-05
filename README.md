@@ -2,6 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm Arushi Jain</h1>
 <h3 align="center">A passionate Java developer from India</h3>
+<p align="center">Developed and deployed a Java-based application that resolved user
+login issues, increasing user satisfaction feedback scores by 40% within
+the rst week of release through targeted debugging efforts. Leveraging a
+strong academic background in Computer Science and training in Java.
+Proven strengths in teamwork, public speaking, and a keen interest in
+sports. Eager to contribute to a team and align the skill set with company
+projects.</p>
 
 <img align="right" alt="coding" width="400" src="[[[[https://media.giphy.com/media/ZZ6nXfV7YXwpXyxfth/giphy.gif](https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-girl-gif-2332171326726785246&psig=AOvVaw0USn1HvWowv9-9XN4K2xwr&ust=1738777388903000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCuptbIqosDFQAAAAAdAAAAABAE)](https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif)](https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif)">
 
