@@ -1,4 +1,4 @@
-![logo](https://github.com/arujain15/arujain15/blob/main/images_git.jpg )
+![logo]([https://github.com/arujain15/arujain15/blob/main/images_git.jpg ](https://github.com/arujain15/arujain15/blob/main/resized_banner.jpg))
 
 <h1 align="center">Hi 👋, I'm Arushi Jain</h1>
 <h3 align="center">A passionate Java developer from India</h3>
