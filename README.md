@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
+<img align="right" alt="coding" width="400" height ="250" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
 
 ### **🛠 About Me**
 - 🔭 I’m currently **working as an Intern at NFL.**
