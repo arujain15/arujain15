@@ -7,7 +7,7 @@
 🚀 Developed and deployed a Java-based application that resolved user login issues, increasing satisfaction by <b>40%</b> within the first week!  
 💡 Strong background in <b>Java, Web Development, and Databases</b>.  
 🎯 Enthusiastic about <b>problem-solving, teamwork, and public speaking</b>.  
-🏆 Passionate about <b>technology, coding, and continuous learning</b>.  
+🏆 Passionate about <b>technology, coding, and continuous learning</b>.
 </p>
 
 ---
@@ -15,7 +15,7 @@
 <img align="right" alt="coding" width="400" height ="250" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
 
 ### **🛠 About Me**
-- 🔭 I’m currently **working as an Intern at NFL.**
+- 🔭 I’m currently I am working on **my skills**
 - 🌱 I’m currently learning **Advanced Java & Spring Boot.**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/arujain15)
 - 📫 Reach me at **jarushi911@gmail.com**
